@@ -46,7 +46,7 @@ Default: `nested`
 
 Specify the CSS output style. Available styles are 'nested', 'expanded', 'compact', 'compressed'.
 
-*According to the [node-sass](https://github.com/andrew/node-sass) documentation, there is currently a problem with lib-sass so this option is best avoided for the time being.*
+*According to the [node-sass](https://github.com/andrew/node-sass) documentation, there is currently a problem with libsass so this option is best avoided for the time being.*
 
 
 ### Example config
